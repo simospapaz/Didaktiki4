@@ -1,2 +1,1 @@
-# Didaktiki4
-Didaktiki4_R
+Example of README.md
